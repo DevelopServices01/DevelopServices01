@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Bonjour, je suis [Votre Nom]
 
-<!--
-**DevelopServices01/DevelopServices01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeur [votre spécialité] passionné
 
-Here are some ideas to get you started:
+[Brève description de vous et de ce que vous faites]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies et outils
+
+- **Langages :** JavaScript, Python, Java, etc.
+- **Frameworks :** React, Node.js, Django, etc.
+- **Outils :** Git, Docker, VS Code, etc.
+- **Bases de données :** MySQL, MongoDB, PostgreSQL
+
+## 📈 Mes statistiques GitHub
+
+![Votre nom](https://github-readme-stats.vercel.app/api?username=votrenom&show_icons=true&theme=radical)
+
+## 🔥 Projets en vedette
+
+### [Nom du projet]
+Description courte du projet et technologies utilisées.
+
+### [Autre projet]
+Description courte...
+
+## 📫 Me contacter
+
+- **Email :** votre.email@domain.com
+- **LinkedIn :** [Votre profil LinkedIn](lien)
+- **Site web :** [votresite.com](lien)
+
+## 💡 Fun fact
+
+[Une anecdote intéressante sur vous]
